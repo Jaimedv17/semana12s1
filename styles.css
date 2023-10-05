@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgreen;
+}
+
+.container{
+    background-color: lightblue;
+    width: 50%;
+    margin: 0 auto;
+    padding: 2rem;
+    margin-top: 5rem;
+    border: 5px solid rgb(26, 69, 83);
+}
+
+.preguntas{
+    margin-bottom: 1rem;
+}
+
+.contenedor{
+    line-height: 2rem;
+}
